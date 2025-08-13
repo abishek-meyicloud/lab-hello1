@@ -1,2 +1,2 @@
-# lab-hello1
+# lab-hello
 {"description" => "Configuration repository for lab: Test", "private" => false}
